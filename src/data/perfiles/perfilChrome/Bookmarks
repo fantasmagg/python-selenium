@@ -1,0 +1,34 @@
+{
+   "checksum": "27b177005d4cdc4a2a0bbc1595158559",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13265247039315379",
+         "date_modified": "13265247043421355",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13265247039315380",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13265247039315381",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgGtnsRXCBQAhgGtnsRXCBQAiFAmpl0XCFcIFABADGQK8S8TqzDH4MhgKFggCEbneVcIVwgUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAa2exFcIFACGAa2exFcIFADIYChYIAhG53lXCFcIFABgAIQAAAAAAAAAAIABIvMeJ7ZUvcLzHie2VLxIAIAEqGDJHQXAwS0x1ekVkaWtaR3g3VTlEMWc9PRKrAQgBEqYBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9Ek5aOkFEcXRBWnkzWXRwdUZKQzhIVVJTZkZLamwrYXc1ckdWME95QkNBaTFnSjFBZDlEc25NQmc0bXI5Yys4N05LUlNUMWNYYk9QZVJXKzIYACAAKAAwqK+WktzC8AI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgBlAAAAABLDAQgDEr4BChx5NVdFMjd1STZ2WC9EZUlTSEp6bmpNcXVXV3M9EmZaOkFEcXRBWnlieUJPNC84OUFYZlpFRDBJU2FQeVluQW5nMWtnczBsRmhCK0ZKS25CaUdzOFJMR1FUVXdOTy9vTW85elZSMVQvR2lKSnNSN3VwSU5rMnpXVWlpd0REQ2ZrRjBRPT0YACAAKAAwqK+WktzC8AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WgBlAAAAABLDAQgCEr4BChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWnl0T1gwWVBjRnhYV1l6Y1hicXY4TzdOZDc2MVEyS0h6SDB6RWJ1MWNzekpQd1VTQmU2dmpwZFd2WjZ0RmZYZGNQaDYrb1lPemh3QjdOSmhYYVlUeUhuODUxNVFRPT0YACAAKAAwqK+WktzC8AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgBlAAAAABgBIJ3Gie2VLygA",
+   "version": 1
+}

@@ -1,0 +1,11 @@
+[ {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/python%20behave/4/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/python%20behave/1/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

@@ -1,0 +1,138 @@
+<div class='mc-dws-main-container'>
+  <header>
+    <img class='logo' x-mcsrc src='images/web_advisor/mcafee_brand.svg' />
+    <img class='close-icon-btn' x-mcsrc src='images/web_advisor/x-icon-dark.svg' />
+  </header>
+  <div class='screens-container'>
+    <!-- Email dark web scan offer screen -->
+    <div id='screen-scan-email' class='screen'>
+      <div class='main-logo'>
+        <img x-mcsrc src='images/dws/scan-email-logo.svg' />
+      </div>
+      <div class='main-content'>
+        <h1 id='dws_scan_email_title' class='title' x-mclocalizedtext="true"></h1>
+        <p id='dws_scan_email_description' class='description' x-mclocalizedtext="true"></p>
+        <div id='email-input-wrapper'>
+          <div class="wa-text-input">
+            <input type="text" placeholder="" id='email-input' required />
+            <label id='dws_email_input_label' x-mclocalizedtext="true"></label>
+            <div class='email-error-x'>
+              <img x-mcsrc src='images/dws/error-fill.svg' />
+            </div>
+          </div>
+        </div>
+        <!-- Input field error in email address provided -->
+        <p class='email-error-div'>
+          <span id='dws_email_input_error' x-mclocalizedtext="true"></span>
+        </p>
+        <!-- Privacy notice -->
+        <p id="dws_privacy_notice" class='scan-email-disclosure'></p>
+      </div>
+      <div class='actions actions-first-time'>
+        <button id='dws_scan_btn_first_time' class='outlined primary mb-12' x-mclocalizedtext="true"></button>
+        <button id='dws_remind_later_btn_first_time' class='link' x-mclocalizedtext="true"></button>
+      </div>
+      <div class='actions actions-second-time'>
+        <button id='dws_scan_btn' class='outlined primary mb-12' x-mclocalizedtext="true"></button>
+        <button id='dws_remind_later_btn' class='outlined secondary mb-12' x-mclocalizedtext="true"></button>
+        <button id='dws_do_not_ask_again_btn' class='link' x-mclocalizedtext="true"></button>
+      </div>
+    </div>
+
+    <!-- Scan in progress screen -->
+    <div id='screen-searching' class='screen'>
+      <div class='main-content'>
+        <h1 id='dws_searching_title' class='title' x-mclocalizedtext="true"></h1>
+        <div id='scanning-animation'></div>
+      </div>
+      <div class='actions'>
+        <button id='dws_cancel_btn' class='outlined secondary' x-mclocalizedtext="true"></button>
+      </div>
+    </div>
+
+    <!-- Remind later confirmation screen -->
+    <div id='screen-remind-later' class='screen'>
+      <div class='main-content'>
+        <div id='confirmation-logo'>
+          <img x-mcsrc src='images/dws/confirmation-logo.svg' />
+        </div>
+        <h1 id='dws_remind_later_title' class='title' x-mclocalizedtext="true"></h1>
+      </div>
+      <div class='actions'>
+        <button id='dws_thanks_btn' class='outlined primary' x-mclocalizedtext="true"></button>
+      </div>
+    </div>
+
+    <!-- Don't ask again screen -->
+    <div id='screen-do-not-ask-again' class='screen'>
+      <div class='main-content'>
+        <div id='confirmation-logo'>
+          <img x-mcsrc src='images/dws/confirmation-logo.svg' />
+        </div>
+        <h1 id='dws_do_not_ask_again_title' class='title' x-mclocalizedtext="true"></h1>
+      </div>
+      <div class='actions'>
+        <button id='dws_do_not_ask_again_close_btn' class='outlined primary' x-mclocalizedtext="true"></button>
+      </div>
+    </div>
+
+    <!-- Scan error screen -->
+    <div id='screen-scan-error' class='screen'>
+      <div class='main-content'>
+        <div id='scan-error-animation'></div>
+        <h1 id='dws_scan_error_title' class='title' x-mclocalizedtext="true"></h1>
+        <p class='description' x-mclocalizedtext="true"></p>
+      </div>
+      <div class='actions'>
+        <button id='dws_try_again_btn' class='outlined primary mb-12' x-mclocalizedtext="true"></button>
+        <button id='dws_next_time_btn' class='link' x-mclocalizedtext="true"></button>
+      </div>
+    </div>
+
+    <!-- No breach found screen -->
+    <div id='screen-no-breach-found' class='screen'>
+      <div class='main-logo'>
+        <img x-mcsrc src='images/dws/no-breach-found-logo.svg' />
+      </div>
+      <div class='main-content'>
+        <h1 id='dws_no_breach_found_title' class='title' x-mclocalizedtext="true"></h1>
+        <div class='breach-details' id='breach-not-found-details'>
+          <p class='breach-details-email'></p>
+          <p class='breach-details-text'>
+            <span id='dws_no_breach_details' x-mclocalizedtext="true"></span>
+          </p>
+        </div>
+        <p id='dws_no_breach_description' class='description' x-mclocalizedtext="true"></p>
+      </div>
+      <div class='actions'>
+        <button id='mc-dws-start-monitoring-btn' class='outlined primary mb-12'>
+          <span id='dws_start_monitoring_btn' x-mclocalizedtext="true"></span>
+          <img class='external-link-logo' x-mcsrc src='images/dws/external-link-logo.svg' />
+        </button>
+        <button id='dws_no_breach_not_now_btn' class='link' x-mclocalizedtext="true"></button>
+      </div>
+    </div>
+
+    <!-- Some breach found screen -->
+    <div id='screen-some-breach-found' class='screen'>
+      <div class='main-logo'>
+        <img x-mcsrc src='images/dws/some-breach-found-logo.svg' />
+      </div>
+      <div class='main-content'>
+        <h1 id='dws_some_breach_found_title' class='title' x-mclocalizedtext="true"></h1>
+        <div class='breach-details' id='breach-found-details'>
+          <p class='breach-details-email'></p>
+          <p class='breach-details-text'></p>
+        </div>
+        <p id='dws_some_breach_found_description' class='description' x-mclocalizedtext="true"></p>
+      </div>
+      <div class='actions'>
+        <button id='mc-dws-show-me-btn' class='outlined primary mb-12'>
+          <span id='dws_show_me_btn' x-mclocalizedtext="true"></span>
+          <img class='external-link-logo' x-mcsrc src='images/dws/external-link-logo.svg' />
+        </button>
+        <button id='dws_some_breach_not_now_btn' class='link' x-mclocalizedtext="true"></button>
+      </div>
+    </div>
+  </div>
+</div>

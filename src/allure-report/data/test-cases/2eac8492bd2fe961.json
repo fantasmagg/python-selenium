@@ -1,0 +1,215 @@
+{
+  "uid" : "2eac8492bd2fe961",
+  "name" : "probando cambio de ventanas",
+  "fullName" : "Funciones basicas de selenium BDD: probando cambio de ventanas",
+  "historyId" : "cbc0e935e1264030484488fb8b0a0000",
+  "time" : {
+    "start" : 1629937104671,
+    "stop" : 1629937108593,
+    "duration" : 3922
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given open brower",
+      "time" : {
+        "start" : 1629937104672,
+        "stop" : 1629937106772,
+        "duration" : 2100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then DOM Spotify_mensajedeError",
+      "time" : {
+        "start" : 1629937106772,
+        "stop" : 1629937106773,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And guardar ventana : spoti",
+      "time" : {
+        "start" : 1629937106773,
+        "stop" : 1629937106784,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And ir a otra ventana url : https://www.google.com/",
+      "time" : {
+        "start" : 1629937106784,
+        "stop" : 1629937106815,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And guardar ventana : google",
+      "time" : {
+        "start" : 1629937106815,
+        "stop" : 1629937108217,
+        "duration" : 1402
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And guardar ventana : spoti",
+      "time" : {
+        "start" : 1629937108217,
+        "stop" : 1629937108225,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And escribir email Emailsing texto: hola",
+      "time" : {
+        "start" : 1629937108225,
+        "stop" : 1629937108434,
+        "duration" : 209
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And selecinar mes por texto elemento : select_month mes Febrero",
+      "time" : {
+        "start" : 1629937108434,
+        "stop" : 1629937108528,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And captura de pantalla spoti",
+      "time" : {
+        "start" : 1629937108528,
+        "stop" : 1629937108593,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "Probando"
+  }, {
+    "name" : "tag",
+    "value" : "Selenium"
+  }, {
+    "name" : "feature",
+    "value" : "Funciones basicas de selenium BDD"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "97affc67b1fce2e5",
+        "reportUrl" : "http://localhost:8080/job/python%20behave/1/allure/#testresult/97affc67b1fce2e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629934810712,
+          "stop" : 1629934817970,
+          "duration" : 7258
+        }
+      } ]
+    },
+    "tags" : [ "Selenium", "Probando" ]
+  },
+  "source" : "2eac8492bd2fe961.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,14 @@
+{
+
+  "FrameTRY": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//iframe[@id='iframeResult']"
+  },
+
+  "Try itAler": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Try it')]"
+  }
+
+
+}

@@ -1,0 +1,115 @@
+1621341405753	geckodriver	INFO	Listening on 127.0.0.1:51422
+1621341408810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofilekxC1ST"
+1621341409413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621341411877	Marionette	INFO	Listening on port 51432
+1621341411990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621341413054	Marionette	INFO	Stopped listening on port 51432
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Parent 23308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621405176207	geckodriver	INFO	Listening on 127.0.0.1:65481
+1621405179282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofilekFSTXt"
+1621405179917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621405182386	Marionette	INFO	Listening on port 65491
+1621405182463	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1621405188903	Marionette	INFO	Stopped listening on port 65491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621497093276	geckodriver	INFO	Listening on 127.0.0.1:58494
+1621497096325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofilesL5UB8"
+1621497096968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621497099438	Marionette	INFO	Listening on port 58502
+1621497099538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cursosdev.com/js/myapp.js, line 18: TypeError: clock is null
+1621497105839	Marionette	INFO	Stopped listening on port 58502
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\saitama\AppData\Local\Temp\rust_mozprofilesL5UB8\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621497144306	geckodriver	INFO	Listening on 127.0.0.1:58650
+1621497147360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofileX9tqDI"
+1621497147666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621497149568	Marionette	INFO	Listening on port 58660
+1621497150036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cursosdev.com/js/myapp.js, line 18: TypeError: clock is null
+1621497164745	Marionette	INFO	Stopped listening on port 58660
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621497817564	geckodriver	INFO	Listening on 127.0.0.1:59415
+1621497820643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofileEYovrm"
+1621497821270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621497823691	Marionette	INFO	Listening on port 59425
+1621497823819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cursosdev.com/js/myapp.js, line 18: TypeError: clock is null
+1621497830045	Marionette	INFO	Stopped listening on port 59425
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\saitama\AppData\Local\Temp\rust_mozprofileEYovrm\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621497910723	geckodriver	INFO	Listening on 127.0.0.1:59591
+1621497913815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofileyj8Iz0"
+1621497914098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621497916027	Marionette	INFO	Listening on port 59601
+1621497916498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cursosdev.com/js/myapp.js, line 18: TypeError: clock is null
+1621497921428	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1621497921675	Marionette	INFO	Stopped listening on port 59601
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\saitama\AppData\Local\Temp\rust_mozprofileyj8Iz0\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621503941278	geckodriver	INFO	Listening on 127.0.0.1:60513
+1621503944414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofileqpYWK0"
+1621503945007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621503947391	Marionette	INFO	Listening on port 60523
+1621503947602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cursosdev.com/js/myapp.js, line 18: TypeError: clock is null
+1621503952615	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1621503963299	Marionette	INFO	Stopped listening on port 60523
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621504014771	geckodriver	INFO	Listening on 127.0.0.1:60680
+1621504017822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saitama\\AppData\\Local\\Temp\\rust_mozprofilebo3BAC"
+1621504018146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621504020077	Marionette	INFO	Listening on port 60688
+1621504020481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cursosdev.com/js/myapp.js, line 18: TypeError: clock is null
+1621504025969	Marionette	INFO	Stopped listening on port 60688
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\saitama\AppData\Local\Temp\rust_mozprofilebo3BAC\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

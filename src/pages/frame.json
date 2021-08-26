@@ -1,0 +1,40 @@
+{
+
+
+"frameUno": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//iframe[@id='frame1']"
+  },
+  "Topic_entry": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/input[1]"
+  },
+   "frameTres": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//iframe[@id='frame3']"
+  },
+  "CheckBox": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='a']"
+  },
+  "frameDos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//iframe[@id='frame2']"
+  },
+  "selector_animals": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//select[@id='animals']"
+  },
+  "select_Baby_Cat": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/select[@id='animals']/option[2]"
+  },
+   "Title_frames_examples": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h1[contains(text(),'Frames Examples in Selenium Webdriver')]"
+  }
+
+
+
+
+}

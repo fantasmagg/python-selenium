@@ -1,0 +1,31 @@
+{
+  "cbc0e935e1264030484488fb8b0a0000" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2eac8492bd2fe961",
+      "reportUrl" : "http://localhost:8080/job/python%20behave/4/allure/#testresult/2eac8492bd2fe961",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629937104671,
+        "stop" : 1629937108593,
+        "duration" : 3922
+      }
+    }, {
+      "uid" : "97affc67b1fce2e5",
+      "reportUrl" : "http://localhost:8080/job/python%20behave/1/allure/#testresult/97affc67b1fce2e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629934810712,
+        "stop" : 1629934817970,
+        "duration" : 7258
+      }
+    } ]
+  }
+}

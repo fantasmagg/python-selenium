@@ -1,0 +1,11 @@
+[ {
+  "uid" : "2eac8492bd2fe961",
+  "name" : "probando cambio de ventanas",
+  "time" : {
+    "start" : 1629937104671,
+    "stop" : 1629937108593,
+    "duration" : 3922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

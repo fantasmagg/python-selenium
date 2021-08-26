@@ -1,0 +1,37 @@
+
+{
+
+  "Emailsing": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='email']"
+  },
+  "Mensaje_de_error": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@class='LinkContainer-sc-1t58wcv-0 gUjKMh']"
+  },
+   "select_month": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//select[@id='month']"
+  },
+   "iniciosesion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"es\"]/div[2]/div[1]/div[3]/div[6]/a"
+  },
+   "goog": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input"
+  },
+   "mesaERROR": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@class='LinkContainer-sc-1t58wcv-0 gUjKMh']"
+  },
+   "yatienesunacuenta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='__next']/main[1]/div[2]/div[1]/form[1]/div[9]/p[3]/span[1]"
+  }
+
+
+
+
+
+}
